@@ -7,7 +7,8 @@
 * Installation
 * Usage
 * License
-* Contributor/ Author 
+* Contributor/ Author
+* Loom video link
 
 ---
 
@@ -65,7 +66,12 @@ Distributed under the GNU Public License v3.0.
 
 ---
 
-* Kieran Littlewood 
+* Kieran Littlewood
 
 
+## Loom video link
+
+---
+
+https://www.loom.com/share/5d2f6475ee73476c83bb6fcdc2a504f8
 
